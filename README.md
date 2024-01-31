@@ -27,7 +27,7 @@
   
   
   
- Work | Area
-  --- | ---
-  [Senior Sistemas](https://www.google.com/search?q=Senior+Sistemas+S%2FA&rlz=1C1GCEU_pt-BR&oq=Senior+Sistemas+S%2FA&aqs=chrome..69i57j46i175i199i512j0i22i30l3j69i60l3.4736j0j7&sourceid=chrome&ie=UTF-8) | Software Developer III
+ Work | Area | Since 
+  --- | --- | ---
+  [Senior Sistemas](https://www.google.com/search?q=Senior+Sistemas+S%2FA&rlz=1C1GCEU_pt-BR&oq=Senior+Sistemas+S%2FA&aqs=chrome..69i57j46i175i199i512j0i22i30l3j69i60l3.4736j0j7&sourceid=chrome&ie=UTF-8) | Software Developer III | 2021 - now
 <hr>
